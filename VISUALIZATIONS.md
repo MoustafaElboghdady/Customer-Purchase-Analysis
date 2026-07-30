@@ -22,14 +22,30 @@ The script creates a `/visualizations/` folder with 10 PNG charts:
 <img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/9cb08b09-932e-42b2-9075-54386daeeb94" />
 
 2. **02_customer_tenure.png** - Customer distribution by years active
+<img width="1396" height="590" alt="image" src="https://github.com/user-attachments/assets/57079825-8059-49c9-9704-dcc002c9e9c3" />
+
 3. **03_gap_analysis.png** - Days between purchases distribution
+<img width="1490" height="590" alt="image" src="https://github.com/user-attachments/assets/27940aad-c09f-48fe-b403-813c4c29362d" />
+
 4. **04_churn_risk.png** - Customers by risk level
-5. **05_monthly_revenue.png** - Monthly sales trend
-6. **06_mom_growth.png** - Month-over-month growth percentage
+<img width="1445" height="590" alt="image" src="https://github.com/user-attachments/assets/e98bca3b-876e-4515-a264-365438f7f26a" />
+
+5. **05_monthly_revenue.png** - Monthly sales trend in 2020
+<img width="1489" height="990" alt="image" src="https://github.com/user-attachments/assets/df5663f1-41b3-4a8d-966b-52b108f69fe7" />
+
+6. **06_mom_growth.png** - Month-over-month growth percentage for 2020
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/8189c556-657d-4a50-bb36-82ca2e3a3cdc" />
+
 7. **07_yoy_growth.png** - Year-over-year sales and growth rate
+<img width="1589" height="590" alt="image" src="https://github.com/user-attachments/assets/d26845bd-0b5a-45b8-8cbe-be86783bf981" />
+
 8. **08_branch_ranking.png** - Branch sales comparison
-9. **09_best_branch_monthly.png** - Top branch each month
-10. **10_customer_preference.png** - Customer branch preferences
+<img width="1589" height="590" alt="image" src="https://github.com/user-attachments/assets/b5cfb913-44d0-4f9e-91f5-a95d75033c68" />
+
+9. **09_best_branch_monthly.png** - Top branch each month 2020
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/1fb49b93-f217-4899-8012-ddd086d46fdc" />
+
+
 
 ## What Each Chart Shows
 
@@ -67,10 +83,6 @@ The script creates a `/visualizations/` folder with 10 PNG charts:
 ### Best Branch Monthly
 - Bar chart showing which branch performed best each month
 - Color-coded by branch for easy identification
-
-### Customer Preference
-- Bar chart showing count of favorite vs least-favorite branch preferences
-- Pie chart showing distribution percentages
 
 ## Customization
 

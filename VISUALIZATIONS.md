@@ -19,6 +19,7 @@ python generate_visualizations.py
 The script creates a `/visualizations/` folder with 10 PNG charts:
 
 1. **01_clv_ranking.png** - Top customers by lifetime value
+<img width="1489" height="590" alt="image" src="https://github.com/user-attachments/assets/9cb08b09-932e-42b2-9075-54386daeeb94" />
 
 2. **02_customer_tenure.png** - Customer distribution by years active
 3. **03_gap_analysis.png** - Days between purchases distribution
